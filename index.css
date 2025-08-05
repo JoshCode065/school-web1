@@ -37,7 +37,7 @@ right: 0;
 .listdiv{
     background-color: whitesmoke;
     position: absolute;
-    right: 50px;
+    right: 20px;
     display: flex;
     cursor: pointer;
     display: none;
